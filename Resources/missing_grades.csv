@@ -1,9 +1,9 @@
-,Unnamed: 0,Student ID,student_name,gender,grade,reading_score,math_score
-0,0,0,Paul Bradley,M,9th,66.0,79.0
-1,1,1,Victor Smith,M,12th,94.0,61.0
-2,2,2,Kevin Rodriguez,M,12th,85.0,60.0
-3,3,3,Dr. Richard Scott,M,12th,67.0,58.0
-4,4,4,Bonnie Ray,F,9th,97.0,84.0
-5,5,5,Bryan Miranda,M,9th,94.0,85.0
-6,6,6,Sheena Carter,F,11th,82.0,80.0
-7,7,7,Nicole Baker,F,12th,96.0,69.0
+,Student ID,student_name,gender,grade,reading_score,math_score
+0,0,Paul Bradley,M,9th,66.0,79.0
+1,1,Victor Smith,M,12th,94.0,61.0
+2,2,Kevin Rodriguez,M,12th,85.0,60.0
+3,3,Dr. Richard Scott,M,12th,67.0,58.0
+4,4,Bonnie Ray,F,9th,97.0,84.0
+5,5,Bryan Miranda,M,9th,94.0,85.0
+6,6,Sheena Carter,F,11th,82.0,80.0
+7,7,Nicole Baker,F,12th,96.0,69.0
