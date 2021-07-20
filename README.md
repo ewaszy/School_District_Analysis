@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview: 
-The purpose of this project was to gain experience using Python in Jupyter Notebook to perform an analysis on .csv files, as well as using the command line to add, commit, and push files to the appropriate repository. 
+The purpose of this project was to gain experience using Python in Jupyter Notebook to perform an analysis on .csv files, handling missing values, creating data frames as well as using the command line to add, commit, and push files to the appropriate repository. 
 
 The math and reading scores of all students among every school within a single district were analyzed, and provides many different measures of performance to compare. After the inital analysis was completed, the math and reading scores of 9th graders from Thomas High School were replaced with NaN. Then, the same analysis was performed on the data with the replaced values. This report summarizes how replacing these students' grades with NaN affected the overall analysis.
 
